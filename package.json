@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-webhook",
+  "version": "1.0.0",
+  "description": "WhatsApp Cloud API webhook handler",
+  "main": "api/whatsapp-ingest.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  }
+}
